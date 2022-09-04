@@ -1,0 +1,16 @@
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\bin\Debug\Wpf_Lesson3.2.exe.config
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\bin\Debug\Wpf_Lesson3.2.exe
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\bin\Debug\Wpf_Lesson3.2.pdb
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.csproj.AssemblyReference.cache
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\MainWindow.g.cs
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\App.g.cs
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2_MarkupCompile.cache
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2_MarkupCompile.lref
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\MainWindow.baml
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.g.resources
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3._2.Properties.Resources.resources
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.csproj.GenerateResource.cache
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.csproj.CoreCompileInputs.cache
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.exe
+C:\Users\Ahme_if16\source\repos\Wpf_Lesson3.2\Wpf_Lesson3.2\obj\Debug\Wpf_Lesson3.2.pdb
